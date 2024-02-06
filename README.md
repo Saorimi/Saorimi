@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Saorimi
-- 👀 I'm an airline pilot
 - 🌱 I’m currently using github to track my notes and developments
 
 <!---
